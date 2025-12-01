@@ -73,7 +73,7 @@
     "symfony/polyfill-intl-grapheme": "~v1.31.0",
     "symfony/polyfill-intl-idn": "~v1.31.0",
     "symfony/polyfill-intl-normalizer": "~v1.31.0",
-    "symfony/polyfill-mbstring": "~v1.31.9",
+    "symfony/polyfill-mbstring": "~v1.31",
     "symfony/polyfill-php73": "~v1.31.0",
     "symfony/polyfill-php80": "~v1.31.0",
     "symfony/polyfill-php81": "~v1.31.0",
